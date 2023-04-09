@@ -1,0 +1,28 @@
+.site-title{
+    color: #ffbd59;
+    font-family: Open Sans, serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.svg-icon{
+    color: #ffbd59;
+}
+
+.sub-menu-toggle{
+    visibility: hidden;
+    display: none;
+}
+
+#masthead {
+    max-width: 100%;
+    /* padding: 0 10%;   */
+    background-image: url(../img/pawel-czerwinski-6lQDFGOB1iw-unsplash.jpg);
+    background-position: center 20%;
+    background-size: cover;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 23rem;
+  }
